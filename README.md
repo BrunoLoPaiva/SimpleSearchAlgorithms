@@ -34,6 +34,8 @@ This repository contains implementations of two graph search algorithms: Depth-F
 
 The depth-first search algorithm explores a graph by traversing as far as possible along each branch before backtracking. It uses a stack data structure to keep track of the nodes to visit.
 
+![DFS](https://raw.githubusercontent.com/BrunoLoPaiva/SimpleSearchAlgorithms/main/res/dfs.png)
+
 ### Usage
 
 To run the depth-first search algorithm, execute the following command:
@@ -47,6 +49,8 @@ Make sure to provide the necessary input, such as the graph structure, starting 
 ## Breadth-First Search (BFS)
 
 The breadth-first search algorithm explores a graph by visiting all neighbors of a node before moving to the next level. It uses a queue data structure to keep track of the nodes to visit.
+
+![BFS](https://raw.githubusercontent.com/BrunoLoPaiva/SimpleSearchAlgorithms/main/res/bfs.png)
 
 ### Usage
 
@@ -98,6 +102,8 @@ Este repositório contém implementações de dois algoritmos de busca em grafos
 
 O algoritmo de busca em profundidade explora um grafo percorrendo o máximo possível em cada ramo antes de fazer o retrocesso. Ele utiliza uma estrutura de pilha para acompanhar os nós a serem visitados.
 
+![DFS](https://raw.githubusercontent.com/BrunoLoPaiva/SimpleSearchAlgorithms/main/res/dfs.png)
+
 ### Uso
 
 Para executar o algoritmo de busca em profundidade, execute o seguinte comando:
@@ -111,6 +117,8 @@ Certifique-se de fornecer as informações necessárias, como a estrutura do gra
 ## Breadth-First Search (BFS)
 
 O algoritmo de busca em largura explora um grafo visitando todos os vizinhos de um nó antes de passar para o próximo nível. Ele utiliza uma estrutura de fila para acompanhar os nós a serem visitados.
+
+![BFS](https://raw.githubusercontent.com/BrunoLoPaiva/SimpleSearchAlgorithms/main/res/bfs.png)
 
 ### Uso
 
